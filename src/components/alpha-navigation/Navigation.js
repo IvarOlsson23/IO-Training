@@ -1,20 +1,22 @@
-import "./App.scss";
+import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import Home from "./views/Home";
-import Programs from "./views/Programs";
-import Diet from "./views/Diet";
-import Error from "./views/Error";
+import Home from "../views/Home";
+import Programs from "../views/Programs";
+import Diet from "../views/Diet";
+import Error from "../views/Error";
 
-function App() {
+const Navigation = (props) => {
   return (
     <div className="nav-container">
+      <div>test</div>
       <Router>
         <nav className="nav">
+          S
           <Link className="links" to="/">
             Home
           </Link>
           <Link className="links" to="programs">
-            Programs
+            Diet
           </Link>
           <Link className="links" to="diet">
             Diet
@@ -29,6 +31,6 @@ function App() {
       </Router>
     </div>
   );
-}
+};
 
-export default App;
+export default Navigation;

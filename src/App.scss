@@ -1,0 +1,77 @@
+// VARIABLES
+
+//COLORS
+$black: #000000;
+$base-black: #232323;
+$light-blue: #97d0fa;
+$white: #ffffff;
+
+// Typografi
+$body-font-size: 16px;
+$body-line-height: 20px;
+$heading-font-size: 24px;
+
+@import url("https://fonts.googleapis.com/css2?family=Gothic+A1&family=Press+Start+2P&family=Source+Sans+3:ital@1&family=Work+Sans:wght@200&display=swap");
+
+// GLOBAL
+body {
+  background-color: $base-black;
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: "Gothic A1", sans-serif;
+  align-items: center;
+}
+
+.nav {
+  background-color: $black;
+  height: 65px;
+  display: flex;
+  justify-content: space-evenly;
+  .links {
+    color: $white;
+  }
+}
+
+// VIEWS
+
+.home-header {
+  background-image: url("../src/media/home-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.programs-header {
+  background-image: url("../src/media/programs-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.diet-header {
+  background-image: url("../src/media/diet-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+// .card-wrapper {
+//   background-color: red;
+// }
+
+p {
+  font-size: $body-font-size;
+  line-height: $body-line-height;
+}
+
+h2 {
+  font-size: $heading-font-size;
+}
+
+.main-button {
+  font-family: "Gothic A1";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+}
