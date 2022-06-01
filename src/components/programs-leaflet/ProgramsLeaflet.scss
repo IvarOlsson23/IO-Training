@@ -1,0 +1,11 @@
+.leaflet-wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  padding: 20px;
+  height: 400px;
+  .leaflet-heading {
+    margin: 20px;
+  }
+}

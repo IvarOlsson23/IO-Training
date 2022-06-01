@@ -9,7 +9,7 @@ const Card = (props) => {
       <div className="card-inside">
         <h2> {props.heading} </h2>
         <p> {props.text} </p>
-        <MainButton text="Try it out"></MainButton>
+        <MainButton text="Check this out!"></MainButton>
       </div>
     </div>
   );

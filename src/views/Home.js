@@ -16,17 +16,17 @@ const Home = () => {
       </div>
       <Card
         heading="Find the right program for you"
-        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit"
         imageSource={require("../media/programs-img.jpg")}
       />
       <Card
-        heading="diet"
-        text="test"
+        heading="Find a diet for you"
+        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit"
         imageSource={require("../media/diet-img.jpg")}
       />
       <Card
-        heading="gyms"
-        text="test"
+        heading="Find a gym near you"
+        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit"
         imageSource={require("../media/gyms-img.jpg")}
       />
     </div>
