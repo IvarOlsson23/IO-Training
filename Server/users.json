@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "testing1@test.com",
+      "password": "q2vasdfq4vq"
+    },
+    {
+      "email": "testing2@test.com",
+      "password": "qw5b<serb"
+    },
+    {
+      "email": "testing3@test.com",
+      "password": "1390gbh134t"
+    },
+    {
+      "email": "testing4@test.com",
+      "password": "09v9hu1f"
+    },
+    {
+      "email": "testing5@test.com",
+      "password": "q1398yv0218"
+    },
+    {
+      "email": "test",
+      "password": "test"
+    },
+    {
+      "email": "asega",
+      "password": "segaseg"
+    },
+    {
+      "email": "testasf",
+      "password": "asefseaf"
+    },
+    {
+      "email": "testasdareg",
+      "password": "asedfasefasef"
+    }
+  ]
+}

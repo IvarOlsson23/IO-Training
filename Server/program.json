@@ -1,0 +1,86 @@
+{
+  "program": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "exercise1": "Snatch",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Snatch Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Back Squat",
+      "reps3": "3 x 3 - 85%"
+    },
+    {
+      "id": 2,
+      "day": "Tuesday",
+      "exercise1": "Clean and jerk",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Clean Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Good morning",
+      "reps3": "6 x 3 - 90%"
+    },
+    {
+      "id": 3,
+      "day": "Thursday",
+      "exercise1": "Clean and jerk",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Clean Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Good morning",
+      "reps3": "6 x 3 - 90%"
+    },
+    {
+      "id": 4,
+      "day": "Friday",
+      "exercise1": "Clean and jerk",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Clean Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Good morning",
+      "reps3": "6 x 3 - 90%"
+    }
+  ],
+  "program2": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "exercise1": "Snatch",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Snatch Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Back Squat",
+      "reps3": "3 x 3 - 85%"
+    },
+    {
+      "id": 2,
+      "day": "Tuesday",
+      "exercise1": "Clean and jerk",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Clean Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Good morning",
+      "reps3": "6 x 3 - 90%"
+    },
+    {
+      "id": 3,
+      "day": "Thursday",
+      "exercise1": "Clean and jerk",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Clean Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Good morning",
+      "reps3": "6 x 3 - 90%"
+    },
+    {
+      "id": 4,
+      "day": "Friday",
+      "exercise1": "Clean and jerk",
+      "reps1": "1 x 2 - 90%, 1 x 2 - 95%",
+      "exercise2": "Clean Pull",
+      "reps2": "1 x 3 - 110%",
+      "exercise3": "Good morning",
+      "reps3": "6 x 3 - 90%"
+    }
+  ]
+}

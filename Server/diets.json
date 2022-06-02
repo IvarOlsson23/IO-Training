@@ -1,0 +1,60 @@
+{
+  "diets": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "meal1": "Meal 1",
+      "meal2": "Meal 2",
+      "meal3": "Meal 3",
+      "meal4": "Meal 4"
+    },
+    {
+      "id": 2,
+      "day": "Tuesday",
+      "meal1": "Meal 1",
+      "meal2": "Meal 2",
+      "meal3": "Meal 3",
+      "meal4": "Meal 4"
+    },
+    {
+      "id": 3,
+      "day": "Wednesday",
+      "meal1": "Meal 1",
+      "meal2": "Meal 2",
+      "meal3": "Meal 3",
+      "meal4": "Meal 4"
+    },
+    {
+      "id": 4,
+      "day": "Thursday",
+      "meal1": "Meal 1",
+      "meal2": "Meal 2",
+      "meal3": "Meal 3",
+      "meal4": "Meal 4"
+    },
+    {
+      "id": 5,
+      "day": "Friday",
+      "meal1": "Meal 1",
+      "meal2": "Meal 2",
+      "meal3": "Meal 3",
+      "meal4": "Meal 4"
+    },
+    {
+      "id": 6,
+      "day": "Saturday",
+      "meal1": "Meal 1",
+      "meal2": "Meal 2",
+      "meal3": "Meal 3",
+      "meal4": "Meal 4"
+    },
+    {
+      "id": 7,
+      "day": "Sunday",
+      "meal1": "Meal 1",
+      "meal2": "Meal 2",
+      "meal3": "Meal 3",
+      "meal4": "Meal 4"
+    }
+  ]
+}
