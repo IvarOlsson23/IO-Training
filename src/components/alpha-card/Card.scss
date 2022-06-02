@@ -14,7 +14,9 @@
 }
 
 .card-inside {
-  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
   margin: auto;
   text-align: center;
   padding: 40px;

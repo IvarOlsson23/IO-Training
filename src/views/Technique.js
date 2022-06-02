@@ -5,7 +5,8 @@ const Technique = () => {
   return (
     <div>
       <div className="technique-header">
-        <Heading text="Lorem ipsum dolor sit amet"></Heading>
+        <Heading text="Technique is very important"></Heading>
+        <Heading text="Learning the snatch"></Heading>
         <Text text="consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"></Text>
         <Text
           text="consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
@@ -24,6 +25,7 @@ const Technique = () => {
         </div>
       </div>
       <div>
+        <Heading text="Squat safely"></Heading>
         <Text text="consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"></Text>
         <Text
           text="consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.

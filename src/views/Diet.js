@@ -7,7 +7,7 @@ const Diet = () => {
   return (
     <div className="diet-wrapper">
       <div className="diet-header">
-        <Heading text="Next level training!"></Heading>
+        <Heading text="Food for strength"></Heading>
         <Text text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, tempor incididunt ut labore et doloreut labore et dolore magna aliqua. Ut enim ad minim veniam"></Text>
         <Text text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam tempor incididunt ut labore et dolore "></Text>
         <DietFetch></DietFetch>

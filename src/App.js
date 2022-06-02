@@ -8,6 +8,7 @@ import About from "./views/About";
 import Technique from "./views/Technique";
 import Error from "./views/Error";
 import Login from "./views/Login";
+import Locations from "./views/Locations";
 import Footer from "../src/components/alpha-footer/Footer";
 import Navbar from "../src/components/alpha-navigation/Navbar";
 
@@ -24,10 +25,11 @@ function App() {
           <Route path="/diet" element={<Diet />} />
           <Route path="/about" element={<About />} />
           <Route path="/technique" element={<Technique />} />
+          <Route path="/locations" element={<Locations />} />
           <Route path="*" element={<Error />} />
         </Routes>
+        <Footer></Footer>
       </Router>
-      <Footer></Footer>
     </div>
   );
 }

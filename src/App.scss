@@ -13,11 +13,13 @@ $heading-font-size: 24px;
 
 @import url("https://fonts.googleapis.com/css2?family=Gothic+A1&family=Press+Start+2P&family=Source+Sans+3:ital@1&family=Work+Sans:wght@200&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
 // GLOBAL
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
 }
 
 body {
@@ -25,7 +27,6 @@ body {
   padding: 0;
   margin: 0;
   color: white;
-  font-family: "Gothic A1", sans-serif;
 }
 
 // VIEWS
@@ -59,6 +60,10 @@ body {
     }
   }
 }
+.label {
+  text-align: center;
+  font-weight: bold;
+}
 
 .home-header {
   background-image: url("../src/media/home-header.jpg");
@@ -74,11 +79,11 @@ body {
   height: 100vh;
 }
 
-.programsEx-header {
+.programs-ex-wrapper {
   background-image: url("../src/media/programs-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 80vh;
+  height: 150vh;
 }
 
 .diet-header {
@@ -99,9 +104,16 @@ body {
   background-image: url("../src/media/technique-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: left;
+  text-align: left !important;
 }
 
+.locations-header {
+  background-image: url("../src/media/gyms-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left;
+  height: 80vh;
+}
 // .card-wrapper {
 //   background-color: red;
 // }
